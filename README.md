@@ -79,6 +79,6 @@ I enjoy building end-to-end systems that span **AI, embedded platforms, and real
 
 ## Connect with me
 
-- GitHub: [(https://github.com/VivreSaVie08) ](https://github.com/VivreSaVie08) 
-- LinkedIn: [*(add your LinkedIn URL here)*](https://www.linkedin.com/in/parinaydewangan/)
+- GitHub: [https://github.com/VivreSaVie08](https://github.com/VivreSaVie08) 
+- LinkedIn: [https://www.linkedin.com/in/parinaydewangan/](https://www.linkedin.com/in/parinaydewangan/)
 
