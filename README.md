@@ -9,19 +9,19 @@
 ## Skills & Technologies
 
 **Programming:**  
-Python · C · C++ · Python · SQL · Perl · VHDL · HTML · CSS · Javascript
+`Python` `C` `C++` `Python` `SQL` `Perl` `VHDL` `HTML` `CSS` `Javascript`
 
 **AI / Machine Learning:**  
-PyTorch · ONNX · snnTorch · OpenCV · CUDA · Reinforcement Learning (PPO) · Transformers · Model compilation & optimization
+`PyTorch` `ONNX` `snnTorch` `OpenCV` `CUDA` `Reinforcement Learning (PPO)` `Transformers` `Model compilation & optimization`
 
 **Embedded & Robotics:**  
-Jetson Nano · Raspberry Pi Pico · STM32 · ROS2 (interested) · Edge deployments (YOLO)
+`Jetson Nano` `Raspberry Pi Pico` `STM32` `ROS2 (interested)` `Edge deployments (YOLO)`
 
 **Toolchains & Dev tools:**  
-Docker · Git · Linux · Clang 
+`Docker` `Git` `Linux` `Clang` 
 
 **Hardware & CAD:**  
-KiCad · LTspice · Ngspice · Quartus Prime · Autocad Fusion 360 · Sensors (PM, CO, IR)
+`KiCad` `LTspice` `Ngspice` `Quartus Prime` `Autocad Fusion 360` `Sensors (PM, CO, IR)`
 
 ---
 
