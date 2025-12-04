@@ -1,7 +1,8 @@
 # Hi 👋, I'm Parinay Dewangan
 
-4th Year B.Tech, Electrical Engineering | IIT Bombay  
-Interested in AI/ML, Embedded systems, and building real-time systems for edge & robotics.
+<p align="center">
+  <strong>4th Year B.Tech, Electrical Engineering and a Minor in Data Science & Artificial Intelligence | IIT Bombay</strong>
+</p>
 
 ---
 
