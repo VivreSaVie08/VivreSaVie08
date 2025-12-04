@@ -31,35 +31,35 @@
 
 - **Realtime AI Voice Agent**  
   A low-latency interactive voice assistant built in Python. Implements streaming STT → LLM → TTS pipelines for conversational, near real-time responses. Good demo of building-block modular design for voice agents.  
-  `[`Realtime AI Voice Agent`](https://github.com/VivreSaVie08/Voice-Agent-Model)`
+  [`Realtime AI Voice Agent`](https://github.com/VivreSaVie08/Voice-Agent-Model)
 
 - **Quantum ML for Malware Detection**  
   Experimental work combining quantum feature extraction and classical/quantum classifiers to detect Android malware. Includes notebooks, preprocessing pipelines, and noise-aware QKSVM / VQC experiments. Useful for research comparisons and benchmarking.  
-  `[`Quantum-Machine-Learning-for-Malware-Detection`](https://github.com/VivreSaVie08/Quantum-Machine-Learning-for-Malware-Detection)`
+  [`Quantum-Machine-Learning-for-Malware-Detection`](https://github.com/VivreSaVie08/Quantum-Machine-Learning-for-Malware-Detection)
 
 - **Road-Safety / Real-time Infrastructure Monitoring**  
   End-to-end project (Smart India Hackathon style) for monitoring infrastructure progress: GIS-based visualization, mobile frontend, Django REST backend, and ML forecasting for completion times. Full-stack + ML integration.  
-  `[`Road-Safety-App`](https://github.com/VivreSaVie08/Road-Safety-App)`
+  [`Road-Safety-App`](https://github.com/VivreSaVie08/Road-Safety-App)
 
 - **IITB-CPU — 16-bit Multicycle RISC Processor**  
   VHDL implementation of a 16-bit multicycle RISC CPU with testbenches and project report — great for learning datapath + control FSM design and FPGA verification.  
-  `[`IITB-CPU-Architecture`](https://github.com/VivreSaVie08/IITB-CPU-Architecture)`
+  [`IITB-CPU-Architecture`](https://github.com/VivreSaVie08/IITB-CPU-Architecture)
 
 - **Spiking Neural Networks (SNN)**  
   Notebooks and experiments with snnTorch / SpikeSim — unsupervised and supervised SNNs on MNIST / CIFAR. Explores surrogate gradients, ALIF neurons, and neuromorphic behaviors.  
-  `[`Spiking-Neural-Networks`](https://github.com/VivreSaVie08/Spiking-Neural-Networks)`
+  [`Spiking-Neural-Networks`](https://github.com/VivreSaVie08/Spiking-Neural-Networks)
 
 - **Interactive Web Crawler**  
   Python crawler with recursive link extraction, plotting of crawl graphs (Matplotlib), plus a tiny web UI to trigger and visualize runs. Useful for web-structure analysis and scraping demos.  
-  `[`Interactive-Web-Crawler`](https://github.com/VivreSaVie08/Interactive-Web-Crawler)`
+  [`Interactive-Web-Crawler`](https://github.com/VivreSaVie08/Interactive-Web-Crawler)
 
 - **Call Scheduler & Manager**  
   Flask demo for scheduling outbound calls (mock API), sqlite persistence, and a simple frontend. Good for quick demos of background jobs and REST APIs.  
-  `[`Call-Scheduler-Manager`](https://github.com/VivreSaVie08/Call-Scheduler-Manager)`
+  [`Call-Scheduler-Manager`](https://github.com/VivreSaVie08/Call-Scheduler-Manager)
 
 - **Sentiment Analysis for Movie Reviews**  
   LSTM-based notebooks and a quick Gradio demo script for sentiment classification. Good example ML pipeline from dataset → model → demo UI.  
-  `[`Sentiment-Analysis-for-Movie-Reviews`](https://github.com/VivreSaVie08/Sentiment-Analysis-for-Movie-Reviews)`
+  [`Sentiment-Analysis-for-Movie-Reviews`](https://github.com/VivreSaVie08/Sentiment-Analysis-for-Movie-Reviews)
 
 ---
 
