@@ -1,4 +1,4 @@
-# Hi 👋, I'm Parinay Dewangan
+# Hi, I'm Parinay Dewangan
 
 <p align="center">
   <strong>4th Year B.Tech, Electrical Engineering and a Minor in Data Science & Artificial Intelligence | IIT Bombay</strong>
