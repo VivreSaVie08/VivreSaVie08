@@ -65,9 +65,9 @@
 
 ## Roles & Activities
 
-- Technical Councilor at Hostel 9 (IIT Bombay) — coordinating tech workshops and hackathons for ~400 residents.  
-- Teaching Assistant for the course "Computer Programming and Utilization"
-- Summer intern experience (System Software) with NVIDIA.
+- System Software intern at NVIDIA (May 2025 - July 2025).  
+- Teaching Assistant for the course "Computer Programming and Utilization" at IIT Bombay.
+- echnical Councilor at Hostel 9 (IIT Bombay) — coordinating tech workshops and hackathons for ~400 residents.
 
 ---
 
